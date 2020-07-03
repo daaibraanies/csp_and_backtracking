@@ -1,0 +1,13 @@
+D:\Work Dir\Visual Studio\backtracking\backtracking\bin\Debug\backtracking.exe.config
+D:\Work Dir\Visual Studio\backtracking\backtracking\obj\Debug\backtracking.csprojResolveAssemblyReference.cache
+D:\Work Dir\Visual Studio\backtracking\backtracking\bin\Debug\backtracking.exe
+D:\Work Dir\Visual Studio\backtracking\backtracking\bin\Debug\backtracking.pdb
+D:\Work Dir\Visual Studio\backtracking\backtracking\obj\Debug\backtracking.exe
+D:\Work Dir\Visual Studio\backtracking\backtracking\obj\Debug\backtracking.pdb
+G:\Some code\backtracking\backtracking\bin\Debug\backtracking.exe.config
+G:\Some code\backtracking\backtracking\bin\Debug\backtracking.exe
+G:\Some code\backtracking\backtracking\bin\Debug\backtracking.pdb
+G:\Some code\backtracking\backtracking\obj\Debug\backtracking.csprojAssemblyReference.cache
+G:\Some code\backtracking\backtracking\obj\Debug\backtracking.csproj.CoreCompileInputs.cache
+G:\Some code\backtracking\backtracking\obj\Debug\backtracking.exe
+G:\Some code\backtracking\backtracking\obj\Debug\backtracking.pdb
